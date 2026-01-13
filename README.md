@@ -1,31 +1,109 @@
-<h1 align="center">Hi 👋, I'm Nishant Rathod</h1>
-<h3 align="center">A passionate Python FullStack developer from India</h3>
+# Hi 👋, I'm Nishant Rathod
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantrathod&label=Profile%20views&color=0e75b6&style=flat" alt="nishantrathod" /> </p>
+🎓 Computer Science & Engineering Student (3rd Year)  
+💻 Interested in various fields of Computer Science including  
+Python FullStack & WordPress, Machine Learning, Artificial Intelligence  
+📍 India  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantrathod" alt="nishantrathod" /></a> </p>
+---
 
-- 🔭 I’m currently working on **KrishiSetu: Bridging Millet Ecosystem with Tech**
+## 👩‍💻 About Me
+- 3rd year Computer Science Engineering student with strong academic fundamentals  
+- Exploring multiple domains of computer science to build a solid technical foundation  
+- Frontend web developer with experience in building **responsive user interfaces**  
+- Experience working with **HTML, CSS, and JavaScript** for frontend development  
+- Familiar with **PHP and WordPress** for basic backend understanding and website development   
+- Actively seeking **internships, live projects, and real-world learning opportunities**
 
-- 🌱 I’m currently learning **react**
+---
 
-- 📫 How to reach me **nickrathod977@gmail.com**
+## 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-rathod-79789328b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-rathod-79789328b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/nishantrathod12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nishantrathod12" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__nishant___rathod__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__nishant___rathod__/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nishantrathod14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nishantrathod14/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/nickratxo0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/nickratxo0w" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/431721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="431721" height="30" width="40" /></a>
+### 🔹 Programming Languages  
+**Python · Java · JavaScript · PHP**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔹 Frontend Web Development  
+**HTML · CSS · JavaScript**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantrathod&show_icons=true&locale=en&layout=compact" alt="nishantrathod" /></p>
+### 🔹 CMS & Web Tools  
+**WordPress (Theme customization, content management)**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="28"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantrathod&show_icons=true&locale=en" alt="nishantrathod" /></p>
+### 🔹 Machine Learning & Data Science  
+**NumPy · Pandas · Scikit-learn · Streamlit**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="28"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantrathod&" alt="nishantrathod" /></p>
+### 🔹 Databases  
+**MySQL**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/>
+</p>
+
+### 🔹 Tools & Platforms  
+**Git · GitHub · & Code**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+**Saarthi**
+📌 Project Description – SAARTHI (Smart College Bus Tracking System):-
+Saarthi is a web-based smart transportation system designed to improve the daily commute experience of college students. Many students travel by college buses but often face uncertainty about when the bus will arrive at their stop, whether the bus has already passed, or if there are unexpected delays. Drivers also do not always know how many students will be boarding on a given day, which leads to miscommunication and inefficiencies.
+To solve these issues, Saarthi provides real-time bus tracking and user interaction between students and drivers.
+
+Key Features:-
+🛰 Live Bus Location Tracking – Students can view the exact real-time location of their assigned bus
+⏱ Estimated Arrival Time – Displays current stop and expected time at the next stop
+👤 Driver Dashboard – Drivers can see the list/count of students who will be boarding
+📩 Student Check-in – Students can mark whether they will be using the bus that day
+📞 Driver & Bus Details – Easily view driver name, contact, bus number and route
+🔔 Notifications (Future Scope) – Alerts when the bus is nearing the student’s stop
+🌐 User-Friendly Web Interface – Accessible to students, drivers, and admins
+
+Benefits:-
+Reduces waiting time at stops
+Prevents students from missing buses
+Helps drivers plan trips more efficiently
+Enhances safety, transparency, and reliability of transport
+
+Saarthi aims to make college bus commuting smarter, faster, and more organized through technology  
+
+
+## 🎯 Areas of Interest
+- Frontend
+- Backend
+- Python Full Stack Development
+- Machine Learning & Data Science  
+- Artificial Intelligence  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: nickrathod977@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/nishant-rathod-79789328b/ 
+- 🧠 LeetCode: https://leetcode.com/u/Nishantrathod14/
+
+---
+
+⭐ *Motivated to learn, adapt, and grow as a well-rounded software professional.*

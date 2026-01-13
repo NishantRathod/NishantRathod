@@ -68,27 +68,25 @@ Python FullStack & WordPress, Machine Learning, Artificial Intelligence
 
 ## 📌 Featured Projects
 **Saarthi**
-📌 Project Description – SAARTHI (Smart College Bus Tracking System):-
-Saarthi is a web-based smart transportation system designed to improve the daily commute experience of college students. Many students travel by college buses but often face uncertainty about when the bus will arrive at their stop, whether the bus has already passed, or if there are unexpected delays. Drivers also do not always know how many students will be boarding on a given day, which leads to miscommunication and inefficiencies.
+
+📌Project Description – SAARTHI (Smart College Bus Tracking System)
+- Saarthi is a web-based smart transportation system designed to improve the daily commute experience of college students. Many students travel by college buses but often face uncertainty about when the bus will arrive at their stop, whether the bus has already passed, or if there are unexpected delays. Drivers also do not always know how many students will be boarding on a given day, which leads to miscommunication and inefficiencies.
 To solve these issues, Saarthi provides real-time bus tracking and user interaction between students and drivers.
 
-Key Features:-
-🛰 Live Bus Location Tracking – Students can view the exact real-time location of their assigned bus
-⏱ Estimated Arrival Time – Displays current stop and expected time at the next stop
-👤 Driver Dashboard – Drivers can see the list/count of students who will be boarding
-📩 Student Check-in – Students can mark whether they will be using the bus that day
-📞 Driver & Bus Details – Easily view driver name, contact, bus number and route
-🔔 Notifications (Future Scope) – Alerts when the bus is nearing the student’s stop
-🌐 User-Friendly Web Interface – Accessible to students, drivers, and admins
+Key Features
+- 🛰 Live Bus Location Tracking – Students can view the exact real-time location of their assigned bus
+- ⏱ Estimated Arrival Time – Displays current stop and expected time at the next stop
+- 👤 Driver Dashboard – Drivers can see the list/count of students who will be boarding
+- 📩 Student Check-in – Students can mark whether they will be using the bus that day
+- 📞 Driver & Bus Details – Easily view driver name, contact, bus number and route
+- 🔔 Notifications (Future Scope) – Alerts when the bus is nearing the student’s stop
+- 🌐 User-Friendly Web Interface – Accessible to students, drivers, and admins
 
-Benefits:-
-Reduces waiting time at stops
-Prevents students from missing buses
-Helps drivers plan trips more efficiently
-Enhances safety, transparency, and reliability of transport
-
+Benefits
+- Reduces waiting time at stops
+- Prevents students from missing buses
 Saarthi aims to make college bus commuting smarter, faster, and more organized through technology  
-
+##
 
 ## 🎯 Areas of Interest
 - Frontend

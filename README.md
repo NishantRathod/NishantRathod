@@ -57,7 +57,7 @@ Python FullStack & WordPress, Machine Learning, Artificial Intelligence
 </p>
 
 ### 🔹 Tools & Platforms  
-**Git · GitHub · & Code**  
+**Git · GitHub · & VS Code**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>

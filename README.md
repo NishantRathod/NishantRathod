@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering Student (3rd Year)  
 💻 Interested in various fields of Computer Science including  
-Python FullStack & WordPress, Machine Learning, Artificial Intelligence  
+    Python FullStack & WordPress, Machine Learning, Artificial Intelligence  
 📍 India  
 
 ---

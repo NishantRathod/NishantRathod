@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 3rd year Computer Science Engineering student with strong academic fundamentals  
+- final year Computer Science Engineering student with strong academic fundamentals  
 - Exploring multiple domains of computer science to build a solid technical foundation  
 - Frontend web developer with experience in building **responsive user interfaces**  
 - Experience working with **HTML, CSS, and JavaScript** for frontend development  
